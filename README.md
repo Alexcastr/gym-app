@@ -1,3 +1,9 @@
+
+# This is the exercise app using react - rapidAPI 
+
+<image src="/public/exercise_page.jpg" alt="Pagina de inicio de la app de ejercicios">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
