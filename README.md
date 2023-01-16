@@ -1,7 +1,7 @@
 
 # This is the exercise app using react - rapidAPI 
 
-<image src="/public/exercise_page.jpg" alt="Pagina de inicio de la app de ejercicios">
+<image src="/public/exercisepage.jpg" alt="Pagina de inicio de la app de ejercicios">
 
 
 # Getting Started with Create React App
